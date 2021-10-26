@@ -17,4 +17,4 @@ console.log(hashedPassword);
 
 // Undefined is being output because no info regarding a password is being held by the person. 
 
-// To fix this problem the following code: , password: '12345' would need to be added with in all the info being held by the person.
+// To fix this problem the following code: , password: '12345' would need to be added with-in all the info being held by the person.
